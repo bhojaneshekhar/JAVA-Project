@@ -1,0 +1,14 @@
+Booking ID: 9040
+Customer Name: chinmay
+Car Name: Land Rover Evoque
+Rental Start Date: 2025-09-09
+Rental End Date: 2025-09-10
+Total Cost: 3000
+-------------------------------------------------
+Booking ID: 2565
+Customer Name: Jitesh Sharma
+Car Name: Ford EcoSport
+Rental Start Date: 2025-12-12
+Rental End Date: 2025-12-30
+Total Cost: 46800
+-------------------------------------------------
